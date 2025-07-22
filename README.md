@@ -25,7 +25,7 @@ A responsive web application for browsing books from the Gutendex API with wishl
 2. Start the server locally:
    ```bash
     cd book-api-dashboard
-    npx serve public
+    node server.js
    ```
 3. Open http://localhost:3000
 
