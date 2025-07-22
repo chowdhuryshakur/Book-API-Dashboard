@@ -19,7 +19,7 @@ A responsive web application for browsing books from the Gutendex API with wishl
 ## Setup  
 1. Clone the repo:
    ```bash
-   git clone https://github.com/chowdhuryshakur/font-system.git
+   https://github.com/chowdhuryshakur/Book-API-Dashboard.git
    ```
 
 2. Start the server locally:
